@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🌐 Hello there! I'm Pragya
 
-<!--
-**Ninja-savvy/Ninja-savvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned **Cyber Security professional** with over 7 years of expertise in safeguarding diverse digital landscapes. My passion lies in proactively identifying and mitigating vulnerabilities to build more secure systems.
 
-Here are some ideas to get you started:
+### 🤝 Let's Collaborate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on projects related to:
+
+- **AI/ML Security:** Exploring and building security solutions for AI and Machine Learning models.
+- **Automation:** Automating security testing, threat detection, and response workflows.
+
+If you are working on something interesting or have a project idea, feel free to reach out!
+
+---
+**Connect with me:** 
